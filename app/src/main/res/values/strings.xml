@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FueledAssignment</string>
+
+    <string name="connection_error">No Internet</string>
+    <string name="horizontal_header">Horizontal list %d</string>
+    <string name="retry">Retry</string>
+    <string name="general_error">Something went wrong</string>
+    <string name="no_data">Data is empty</string>
+</resources>
